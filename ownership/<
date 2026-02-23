@@ -1,0 +1,10 @@
+fn main() {
+    let trip = start_trip();
+}
+
+fn visit_philadelphia(trip: &mut String) {
+    trip
+}
+fn start_trip() -> String {
+    String::from("The plan is ...")
+}
